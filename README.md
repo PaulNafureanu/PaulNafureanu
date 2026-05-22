@@ -52,8 +52,8 @@ I’m especially interested in roles where software understanding, structured tr
 
 ## Links
 
-- Portfolio: paulnafureanu.com
-- LinkedIn: www.linkedin.com/in/paulnafureanu
+- Portfolio: https://paulnafureanu.com
+- LinkedIn: https://www.linkedin.com/in/paulnafureanu
 
 <!--
 **PaulNafureanu/PaulNafureanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
