@@ -46,12 +46,14 @@ That background shaped how I think about software: not as code in isolation, but
 
 ## What I’m looking for
 
-Junior full-stack, backend, QA/manual testing, technical support, or software-adjacent roles where structured thinking, clear communication, and reliability matter.
+Remote roles in technical support, SaaS/product support, application support, customer success operations, CRM/data operations, QA/manual testing, or junior full-stack/backend development.
+
+I’m especially interested in roles where software understanding, structured troubleshooting, clear communication, documentation, and operational discipline matter.
 
 ## Links
 
-- Portfolio: coming soon
-- LinkedIn: add link here
+- Portfolio: paulnafureanu.com
+- LinkedIn: www.linkedin.com/in/paulnafureanu
 
 <!--
 **PaulNafureanu/PaulNafureanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
