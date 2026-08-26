@@ -46,7 +46,7 @@ That background shaped how I think about software: not as code in isolation, but
 
 ## What I’m looking for
 
-Remote roles in technical support, SaaS/product support, application support, customer success operations, CRM/data operations, QA/manual testing, or junior full-stack/backend development.
+Remote roles in technical support, SaaS/product support, application support, customer success operations, CRM/data operations, QA/manual testing, or full-stack/backend development.
 
 I’m especially interested in roles where software understanding, structured troubleshooting, clear communication, documentation, and operational discipline matter.
 
