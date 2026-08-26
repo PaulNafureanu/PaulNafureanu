@@ -1,6 +1,6 @@
 # Paul Andrei Nafureanu
 
-Junior full-stack developer focused on building practical web applications with clear architecture, reliable data flow, and real-world usefulness.
+Full-stack developer focused on building practical web applications with clear architecture, reliable data flow, and real-world usefulness.
 
 I’m currently building a portfolio around React, Node.js, TypeScript, PostgreSQL, Redis, Prisma, Socket.IO, and Docker.
 
