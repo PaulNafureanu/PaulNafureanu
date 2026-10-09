@@ -1,6 +1,6 @@
 # Paul Andrei Nafureanu
 
-Full-stack developer focused on building practical web applications with clear architecture, reliable data flow, and real-world usefulness.
+Focused on building practical applications and systems with clear architecture, reliable data flow, and real-world usefulness.
 
 ## Links
 
