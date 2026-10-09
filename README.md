@@ -1,6 +1,6 @@
 # Paul Andrei Nafureanu
 
-Focused on building practical applications and systems with clear architecture, reliable data flow, and real-world usefulness.
+Focused on building practical, reliable applications and systems with clear architecture and real-world usefulness.
 
 ## Links
 
